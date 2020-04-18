@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# my first demo
-=======
-# First-demo
-# First-demo
+# My first demo based on fake json
